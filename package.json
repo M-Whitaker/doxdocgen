@@ -30,7 +30,8 @@
   "activationEvents": [
     "onLanguage:cuda",
     "onLanguage:cpp",
-    "onLanguage:c"
+    "onLanguage:c",
+    "onLanguage:python"
   ],
   "contributes": {
     "configuration": {
@@ -249,6 +250,7 @@
     "cpp",
     "c++",
     "c",
+    "python",
     "Doxygen"
   ],
   "license": "SEE LICENSE IN LICENSE",
